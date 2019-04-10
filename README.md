@@ -8,6 +8,8 @@ git clone https://github.com/shanitarini/ArchLinux-Termux
 
 cd ArchLinux-Termux
 
+chmod +x setupTermuxArch.sh
+
 bash setupTermuxArch.sh
 
 pacman -Syu
